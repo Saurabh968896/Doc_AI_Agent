@@ -1,0 +1,25 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Env files
+.env
+
+# Logs
+*.log
+
+# Models (AI project)
+models/
+*.bin
+*.pt
+
+# VS Code
+.vscode/
+
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+.env
